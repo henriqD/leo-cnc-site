@@ -1,0 +1,20 @@
+#imagem1{
+    background-color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#imagem1 p{
+    display: inline-block;
+    vertical-align: top;
+}
+#funcionarios h1{
+    color: black;
+}
+#funcionarios p{
+    color: white;
+}
+.logo{
+    width: 10%;
+}
+body{
+    background-color: rgb(59, 59, 59);
+}
