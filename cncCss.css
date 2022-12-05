@@ -1,0 +1,22 @@
+.logo{
+    width: 10%;
+}
+#imagem1{
+    background-color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#imagem1 p{
+    display: inline-block;
+    vertical-align: top;
+}
+body{
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+.a{
+    font-size: 25px;
+    color: black;
+}
+#usinagem h2{
+    color: black;
+}
