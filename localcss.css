@@ -1,0 +1,45 @@
+#imagem1{
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+    height: 3em;
+}
+#imagem1 p{
+    display: inline;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 1em;
+}
+#local h1{
+    color: black;
+}
+#local p{
+    color: white;
+}
+.logo{
+    width: 10%;
+}
+body{
+    background-color: rgb(59, 59, 59);
+    font-family: 'Montserrat', sans-serif;
+}
+#local img{
+    width: 49%;
+}
+#local{
+    vertical-align: middle;
+    display: inline-block;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+}
+#txt{
+    color: white;
+}
+iframe{
+    text-align: center;
+    width: 70%;
+    height: 90%;
+    margin: 10px auto; 
+}

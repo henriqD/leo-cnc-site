@@ -1,0 +1,23 @@
+#imagem1{
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+    height: 3em;
+}
+#imagem1 p{
+    display: inline;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 1em;
+}
+#a{
+    color: black;
+}
+.logo{
+    width: 10%;
+}
+body{
+    color: white;
+    background-color: rgb(59, 59, 59);
+}

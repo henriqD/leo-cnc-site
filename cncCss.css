@@ -1,0 +1,28 @@
+.logo{
+    width: 10%;
+}
+#imagem1{
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+    height: 3em;
+}
+#imagem1 p{
+    display: inline;
+    vertical-align: top;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 1em;
+}
+body{
+    background-color: rgb(59, 59, 59);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.a{
+    font-size: 25px;
+    color: black;
+}
+#usinagem h2{
+    color: black;
+}
